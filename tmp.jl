@@ -4,3 +4,4 @@ function main(inputName)
     write(STDOUT,"$(inputName)\n")
 end
 main(ARGS...)
+# this is an arbitrary commment
